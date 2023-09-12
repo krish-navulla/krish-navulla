@@ -8,6 +8,24 @@
 - 🌱 Currently, I'm expanding my knowledge in React, operating systems, and machine learning operations (MLOps).
 - 💼 Open to collaborations and job opportunities in software development and machine learning application development.
 
+## Skills and Technologies
+
+Here are some of the technologies and languages I work with:
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFA500?style=for-the-badge&logo=sql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-ABC123?style=for-the-badge)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FF6600?style=for-the-badge&logo=hadoop&logoColor=white)
+
 ## What You'll Find Here
 
 - 🚀 My latest projects and contributions.
