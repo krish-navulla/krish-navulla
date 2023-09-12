@@ -37,7 +37,7 @@ Here are some of the technologies and languages I work with:
 ## Connect with Me
 
 - 📫 Feel free to reach out via Email <a href="mailto:vnavulla@buffalo.edu">vnavulla@buffalo.edu</a>
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vamshi-krishna-navulla/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vamshi-navulla-krishna/)
 
 ## Get in Touch
 
