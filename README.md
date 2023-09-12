@@ -1,6 +1,6 @@
-# Welcome to Vamshi Krishna's GitHub Profile
+# Welcome to Krish's GitHub Profile
 
-👋 Hi, I'm Vamshi Krishna Navulla, currently pursuing Master of Science in Computer Science from the [University at Buffalo, State University of New York](https://engineering.buffalo.edu/computer-science-engineering.html).
+👋 Hi, I'm Vamshi Krishna Navulla, currently pursuing a Master of Science in Computer Science from the [University at Buffalo, State University of New York](https://engineering.buffalo.edu/computer-science-engineering.html).
 
 ## About Me
 
@@ -14,7 +14,7 @@
 
 ## Connect with Me
 
-- 📫 Feel free to reach out via Email <a href="mailto:vnavulla@example.com">[vnavulla@example.com]</a>
+- 📫 Feel free to reach out via Email <a href="mailto:vnavulla@buffalo.edu">[vnavulla@buffalo.edu]</a>
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vamshi-krishna-navulla/)
 
 ## GitHub Stats
@@ -25,5 +25,5 @@
 
 Feel free to reach out if you have any questions, ideas, or just want to chat. I'm always excited to connect with fellow developers and enthusiasts. Let's create something amazing together! 🚀
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=krish-navulla.krish-navulla)
 
