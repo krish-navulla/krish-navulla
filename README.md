@@ -39,10 +39,6 @@ Here are some of the technologies and languages I work with:
 - 📫 Feel free to reach out via Email <a href="mailto:vnavulla@buffalo.edu">vnavulla@buffalo.edu</a>
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vamshi-krishna-navulla/)
 
-## GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish-navulla&show_icons=true&theme=dark)](https://github.com/krish-navulla)
-
 ## Get in Touch
 
 Feel free to reach out if you have any questions, ideas, or just want to chat. I'm always excited to connect with fellow developers and enthusiasts. Let's create something amazing together! 🚀
