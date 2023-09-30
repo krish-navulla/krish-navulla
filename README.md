@@ -10,6 +10,11 @@
 -   🌱 Currently, I'm expanding my knowledge in React, operating systems, and machine learning operations (MLOps).
 -   💼 Open to collaborations and job opportunities in software development and machine learning application development.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 |Programming Languages|Frameworks|
 |-----------|-----------|
 |<p>![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
