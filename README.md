@@ -1,16 +1,6 @@
 # Welcome to Krish's GitHub Profile
-<marquee 
-  style= "{
-			color: #480e77;
-			font-family: 'Ubuntu Mono', monospace;
-			background-color: #fafafa;
-			font-size: 34px;
-			line-height: 70px;
-			padding: 17px;
-			font-weight: bold;
-			text-align: center;
-		}"
-  direction="left" scrollamount="13" behavior="scroll">I am Vamshi, a Full Stack Engineer by Profession, and a Deep Learning enthusiast by Passion, Musician at Heart. Will build powerful full-stack applications powered by AI for you.</marquee>
+
+![..](https://github.com/krish-navulla/krish-navulla/blob/main/ezgif.com-video-to-gif.gif)
 
 ![Walking on lines of code towards the end of the universe](https://github.com/krish-navulla/krish-navulla/blob/180dd2de848f756dbff2761e585dc4c992347e43/DALL%C2%B7E%202023-09-12%2019.18.14%20-%20create%20an%20oil%20painting%20depicting%20a%20person%20sitting%20in%20front%20of%20a%20computer%2C%20viewed%20from%20behind.%20The%20individual%20is%20seated%20on%20a%20chair%2C%20holding%20a%20guitar%20in.png)
 
