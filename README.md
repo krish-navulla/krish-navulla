@@ -1,8 +1,8 @@
 # Welcome to Krish's GitHub Profile
 
-![..](https://github.com/krish-navulla/krish-navulla/blob/main/ezgif.com-video-to-gif.gif)
+![..](https://github.com/krish-navulla/krish-navulla/blob/main/ezgif.com-video-to-gif.gif) ![Walking on lines of code towards the end of the universe](https://github.com/krish-navulla/krish-navulla/blob/180dd2de848f756dbff2761e585dc4c992347e43/DALL%C2%B7E%202023-09-12%2019.18.14%20-%20create%20an%20oil%20painting%20depicting%20a%20person%20sitting%20in%20front%20of%20a%20computer%2C%20viewed%20from%20behind.%20The%20individual%20is%20seated%20on%20a%20chair%2C%20holding%20a%20guitar%20in.png)
 
-![Walking on lines of code towards the end of the universe](https://github.com/krish-navulla/krish-navulla/blob/180dd2de848f756dbff2761e585dc4c992347e43/DALL%C2%B7E%202023-09-12%2019.18.14%20-%20create%20an%20oil%20painting%20depicting%20a%20person%20sitting%20in%20front%20of%20a%20computer%2C%20viewed%20from%20behind.%20The%20individual%20is%20seated%20on%20a%20chair%2C%20holding%20a%20guitar%20in.png)
+
 
 👋 Hi, I'm Vamshi Krishna Navulla, currently pursuing a Master of Science in Computer Science from the [University at Buffalo, State University of New York](https://engineering.buffalo.edu/computer-science-engineering.html).
 
