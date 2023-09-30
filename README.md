@@ -1,4 +1,4 @@
-# Welcome to Krish's GitHub Profile
+# Welcome to Vamshi's GitHub Profile
 
 ![..](https://github.com/krish-navulla/krish-navulla/blob/main/ezgif.com-video-to-gif.gif) 
 
