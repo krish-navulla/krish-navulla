@@ -1,5 +1,5 @@
 # Welcome to Vamshi's GitHub Profile
-👋 Hi, I'm Vamshi Krishna Navulla, currently pursuing a Master of Science in Computer Science from the [University at Buffalo, State University of New York](https://engineering.buffalo.edu/computer-science-engineering.html).
+👋 Hi, I'm Vamshi Krishna Navulla, with a Master's in Computer Science from the [University at Buffalo, State University of New York](https://engineering.buffalo.edu/computer-science-engineering.html).
 
 ## About Me
 
