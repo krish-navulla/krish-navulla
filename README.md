@@ -7,6 +7,11 @@
 - 🌱 Currently, I'm expanding my knowledge in React, operating systems, and machine learning operations (MLOps).
 - 💼 Open to collaborations and job opportunities in software development and machine learning application development.
 
+## Open Source Contributions
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)(https://github.com/pytorch/serve/pull/3132)
+
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)(https://github.com/pytorch/serve/pull/3141)
+
 # Skills and Technologies
 
 ## Programming Languages
